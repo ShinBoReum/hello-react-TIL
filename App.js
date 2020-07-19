@@ -1,8 +1,8 @@
-import React from 'react'
-import MyComponent from './MyComponent';
+import React from 'react';
+import ValidationSample from './ValidationSample';
 
 const App =() => {
-  return <MyComponent />
+  return <ValidationSample />
 }
 
 export default App;
